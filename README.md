@@ -1,0 +1,1 @@
+# django_learnings_monthly_challenges
