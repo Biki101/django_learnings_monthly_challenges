@@ -1,1 +1,2 @@
 # django_learnings_monthly_challenges
+# django_learnings_monthly_challenges
